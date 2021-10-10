@@ -133,3 +133,6 @@ tgbotSettings.py
 
 # Bot logs
 *.log
+
+# Bot Database
+latest_news.json
